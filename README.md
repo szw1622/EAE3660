@@ -1,7 +1,6 @@
 # EAE3660
 
-# Team Name:
-Null
+# Team Name: Null
 
 # Team Mebers
 - Danny Reyes
@@ -20,3 +19,10 @@ Null
 3. Begin Storyboarding 
 4. Begin Working Out Background Music
 5. Setup the repository on github
+
+# Week2:(TODO)
+1. Start Character Design: Main Character, Supervisor, 1 Sciencetist
+2. Start Main Lab Scene Design
+3. Finalize Script
+4. Continue Storyboarding
+5. Organize Project Files & Development Schedule
