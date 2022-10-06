@@ -1,4 +1,4 @@
-# EAE3660CS3505-A4 Refactoring and Testing
+# EAE3660
 #Team Mebers
 Danny Reyes
 -Amber Bullough
